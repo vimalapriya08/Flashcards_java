@@ -1,0 +1,37 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+Term:
+hi
+Definition:
+hello
+The pair ("hi":"hello") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+Term:
+vanakam
+Definition:
+hi
+The pair ("vanakam":"hi") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+5
+Print the definition of "hi":
+hello
+Correct!
+Print the definition of "hi":
+hello
+Correct!
+Print the definition of "vanakam":
+hi
+Correct!
+Print the definition of "hi":
+jhsb
+Wrong. The right answer is "hello".
+Print the definition of "vanakam":
+hi
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+djsfn
